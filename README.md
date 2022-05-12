@@ -50,7 +50,7 @@ HFS, LZH, LZMA, LZMA2, MBR, MSI, MSLZ, NSIS,
 NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.
 ```
 
-<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/cloud318/deepak-clouds-mirror"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 
 <p><a href="https://heroku.com/deploy?template=https://github.com/cloud318/deepak-clouds-mirror"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
